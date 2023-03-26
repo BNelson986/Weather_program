@@ -1,4 +1,3 @@
-from tkinter import ttk
 import tkinter as tk
 import requests
 from uszipcode import SearchEngine
