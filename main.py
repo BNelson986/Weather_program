@@ -1,4 +1,3 @@
-# API KEY = 4e3463a7475785eb682835233f1485e1
 from tkinter import ttk
 import tkinter as tk
 import requests
